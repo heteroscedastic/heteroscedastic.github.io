@@ -1,0 +1,60 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Soumya
+  given: Soumya
+  family: ""
+  alternate: ""
+  pronunciation: ""
+  pronouns: ""
+postnominals: []
+status:
+  icon: ""
+role: Data Scientist & Statistician
+bio: |
+  Soumya is a data scientist and statistician passionate about
+  extracting insights from data and exploring the statistics of
+  everyday life. Welcome to Stochastic Rambling — where statistics
+  meets life and a few other outliers!
+
+affiliations: []
+
+links:
+  - icon: brands/github
+    url: https://github.com/heteroscedastic
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+
+interests:
+  - Statistics & Probability
+  - Machine Learning
+  - Data Science
+  - Bayesian Methods
+
+education:
+  - degree: ""
+    institution: ""
+    start: ""
+    end: ""
+
+experience: []
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+        level: 5
+      - label: R
+        level: 4
+      - label: Statistics
+        level: 5
+      - label: Machine Learning
+        level: 4
+
+languages:
+  - name: English
+    level: 5
+    label: Fluent
+
+awards: []

@@ -1,0 +1,190 @@
+# HugoBlox Configuration
+# Schema: hugoblox.com/schema/v2
+hugoblox:
+  schema: "2.0"
+
+  # IDENTITY
+  identity:
+    name: "Stochastic Rambling"
+    organization: ""
+    type: person
+    tagline: "Statistics of life and few other outliers !!"
+    description: "Stochastic Rambling - Personal website of Soumya. Statistics, machine learning, data science, and other outliers."
+    social:
+      twitter: ""
+
+  # THEME
+  theme:
+    mode: system
+    pack: "default"
+    colors:
+      primary: "indigo"
+      secondary: "sky"
+      neutral: ""
+    colors_light: {}
+    colors_dark: {}
+    surfaces:
+      background: ""
+      foreground: ""
+      header:
+        background: ""
+        foreground: ""
+      footer:
+        background: ""
+        foreground: ""
+
+  # TYPOGRAPHY
+  typography:
+    font: "sans"
+    size: "md"
+
+  # LAYOUT
+  layout:
+    radius: "md"
+    spacing: "comfortable"
+    avatar_shape: circle
+
+  # HEADER
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
+    theme_picker: true
+    language_switcher: false
+    cta:
+      enable: false
+      text: ""
+      url: ""
+
+  # FOOTER
+  footer:
+    style: minimal
+    language_switcher: false
+    text: ""
+
+  # COPYRIGHT
+  copyright:
+    notice: "© {year} {name}. {license}"
+    license:
+      type: cc
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: false
+
+  # SEO
+  seo:
+    title: "Stochastic Rambling"
+    location:
+      address:
+        street: ""
+        city: ""
+        region: ""
+        postal_code: ""
+        country: ""
+      coordinates:
+        latitude: null
+        longitude: null
+      phone: ""
+    ai:
+      allow:
+        - /
+      disallow: []
+      note: ""
+      contact: ""
+
+  # CONTENT
+  content:
+    math:
+      enable: true
+    toc:
+      enable: true
+    reading_time:
+      enable: true
+    citations:
+      style: apa
+
+  # SEARCH
+  search:
+    enable: true
+    suggestions: []
+    quick_actions: []
+
+  # COMMENTS
+  comments:
+    enable: false
+    provider: ""
+    giscus:
+      repo: ""
+      repo_id: ""
+      category: ""
+      category_id: ""
+    disqus:
+      shortname: ""
+
+  # ANALYTICS
+  analytics:
+    google:
+      measurement_id: ""
+    google_tag_manager:
+      container_id: ""
+    plausible:
+      domain: ""
+    fathom:
+      site_id: ""
+    pirsch:
+      site_id: ""
+    clarity:
+      project_id: ""
+    baidu:
+      site_id: ""
+
+  # VERIFICATION
+  verification:
+    google: ""
+    bing: ""
+    baidu: ""
+    yandex: ""
+    pinterest: ""
+    naver: ""
+
+  # REPOSITORY
+  repository:
+    enable: true
+    url: "https://github.com/heteroscedastic/heteroscedastic.github.io"
+    branch: main
+    content_dir: content
+
+  # LOCALE
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"
+    address_format: en-us
+
+  # SECURITY
+  security:
+    csp:
+      policy: ""
+      report_only: false
+    frame_options: allow
+    permissions_policy: ""
+
+  # PRIVACY
+  privacy:
+    enable: false
+    anonymize_analytics: true
+
+  # DEBUG
+  debug:
+    enable: false
+    hud:
+      position: bottom-left
+      opacity: 1.0
+    export_logs: true
+
+  # PREMIUM
+  pro:
+    hide_attribution: false
+    affiliate_code: ""
