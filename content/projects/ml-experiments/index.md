@@ -1,6 +1,9 @@
 ---
 title: Machine Learning Experiments
 date: 2024-02-01
+links:
+  - type: site
+    url: https://github.com/heteroscedastic
 tags:
   - Machine Learning
   - Python

@@ -1,6 +1,9 @@
 ---
 title: Statistical Data Analysis
 date: 2024-01-15
+links:
+  - type: site
+    url: https://github.com/heteroscedastic
 tags:
   - Statistics
   - Python
