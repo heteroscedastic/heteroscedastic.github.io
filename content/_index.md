@@ -38,7 +38,7 @@ sections:
 
         This is my personal space where I write about statistics, machine learning, data science, and the curious patterns we find in everyday life. Whether it's exploring Bayesian inference, visualizing interesting datasets, or just rambling about probability — you'll find it here.
 
-        Feel free to explore my [projects](/projects/), read the [blog](/blog/), or check out my [publications](/publications/).
+        Feel free to explore my [projects](/projects/) or read the [blog](/blog/).
     design:
       columns: '1'
 
