@@ -18,7 +18,9 @@ bio: |
   everyday life. Welcome to Stochastic Rambling — where statistics
   meets life and a few other outliers!
 
-affiliations: []
+affiliations:
+  - name: Acme Analytics
+    url: ""
 
 links:
   - icon: brands/github
@@ -33,12 +35,30 @@ interests:
   - Bayesian Methods
 
 education:
-  - degree: ""
-    institution: ""
-    start: ""
-    end: ""
+  - degree: MS in Statistics
+    institution: University of California, Berkeley
+    start: "2014"
+    end: "2016"
+  - degree: BS in Mathematics
+    institution: Indian Institute of Technology
+    start: "2010"
+    end: "2014"
 
-experience: []
+experience:
+  - title: Senior Data Scientist
+    company: Acme Analytics
+    start: "2020"
+    end: ""
+    description: |
+      Leading statistical modeling and machine learning initiatives.
+      Building predictive models and data pipelines at scale.
+  - title: Data Scientist
+    company: DataCorp Inc.
+    start: "2016"
+    end: "2020"
+    description: |
+      Applied Bayesian methods and statistical analysis to solve
+      business problems across multiple domains.
 
 skills:
   - name: Technical Skills
@@ -51,10 +71,25 @@ skills:
         level: 5
       - label: Machine Learning
         level: 4
+  - name: Research & Communication
+    items:
+      - label: Technical Writing
+        level: 4
+      - label: Data Visualization
+        level: 5
+      - label: Presentations
+        level: 4
 
 languages:
   - name: English
     level: 5
     label: Fluent
+  - name: Hindi
+    level: 5
+    label: Native
 
-awards: []
+awards:
+  - title: Best Data Science Project
+    awarder: DataCorp Inc.
+    date: "2019-06-01"
+    summary: Recognized for developing a novel anomaly detection system using Bayesian inference.
