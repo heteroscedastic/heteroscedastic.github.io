@@ -43,13 +43,46 @@ sections:
       columns: '1'
 
   - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
+
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - events
+    design:
+      view: card
+
+  - block: collection
     id: news
     content:
-      title: Recent Posts
+      title: Recent News
       subtitle: ''
       text: ''
       page_type: blog
-      count: 5
+      count: 10
       filters:
         author: ''
         category: ''
@@ -65,13 +98,16 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
-  - block: collection
+  - block: cta-card
+    demo: true
     content:
-      title: Selected Projects
-      filters:
-        folders:
-          - projects
+      title: Build your own academic website like this
+      text: This site is built with the free, open-source HugoBlox Academic CV template.
+      button:
+        text: Get Started
+        url: https://hugoblox.com/templates/
     design:
-      view: article-grid
-      columns: 3
+      card:
+        css_class: 'bg-primary-300 dark:bg-primary-700'
+        css_style: ''
 ---
