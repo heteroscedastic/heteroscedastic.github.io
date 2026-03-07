@@ -37,26 +37,26 @@ interests:
 education:
   - degree: MS in Statistics
     institution: University of California, Berkeley
-    start: "2014"
-    end: "2016"
+    start: "2014-09-01"
+    end: "2016-06-30"
   - degree: BS in Mathematics
     institution: Indian Institute of Technology
-    start: "2010"
-    end: "2014"
+    start: "2010-08-01"
+    end: "2014-05-31"
 
 experience:
-  - title: Senior Data Scientist
-    company: Acme Analytics
-    start: "2020"
+  - role: Senior Data Scientist
+    org: Acme Analytics
+    start: "2020-01-01"
     end: ""
-    description: |
+    summary: |
       Leading statistical modeling and machine learning initiatives.
       Building predictive models and data pipelines at scale.
-  - title: Data Scientist
-    company: DataCorp Inc.
-    start: "2016"
-    end: "2020"
-    description: |
+  - role: Data Scientist
+    org: DataCorp Inc.
+    start: "2016-07-01"
+    end: "2019-12-31"
+    summary: |
       Applied Bayesian methods and statistical analysis to solve
       business problems across multiple domains.
 
@@ -92,4 +92,5 @@ awards:
   - title: Best Data Science Project
     awarder: DataCorp Inc.
     date: "2019-06-01"
+    icon: hero/trophy
     summary: Recognized for developing a novel anomaly detection system using Bayesian inference.
