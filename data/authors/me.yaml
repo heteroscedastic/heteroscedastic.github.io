@@ -2,37 +2,38 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Soumya
-  given: Soumya
-  family: ""
+  display: Soumya Kanti Chakraborty
+  given: Soumya Kanti
+  family: Chakraborty
   alternate: ""
   pronunciation: ""
   pronouns: ""
 postnominals: []
 status:
   icon: ""
-role: Data Scientist & Statistician
+role: Senior Specialist, Data Management & Security
 bio: |
-  Soumya is a data scientist and statistician passionate about
-  extracting insights from data and exploring the statistics of
-  everyday life. Welcome to Stochastic Rambling — where statistics
-  meets life and a few other outliers!
+  Senior Specialist in Data Management & Security at Ericsson. Passionate about Data, AI,
+  and Security. Implementing machine learning algorithms on large datasets using data
+  visualization and analytics to answer business use cases. Cross-domain technical
+  competence in Embedded and Web, with experience in Financial and Telecom domains.
 
 affiliations:
-  - name: Acme Analytics
-    url: ""
+  - name: Ericsson
+    url: https://www.ericsson.com/
 
 links:
   - icon: brands/github
     url: https://github.com/heteroscedastic
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/soumyakantic/
 
 interests:
-  - Statistics & Probability
+  - Data Management
+  - Artificial Intelligence
+  - Security
   - Machine Learning
-  - Data Science
-  - Bayesian Methods
+  - Data Visualization
 
 education:
   - degree: MS in Statistics
@@ -45,39 +46,39 @@ education:
     end: "2014-05-31"
 
 experience:
-  - role: Senior Data Scientist
-    org: Acme Analytics
+  - role: Senior Specialist, Data Management & Security
+    org: Ericsson
     start: "2020-01-01"
     end: ""
     summary: |
-      Leading statistical modeling and machine learning initiatives.
-      Building predictive models and data pipelines at scale.
+      Leading data management and security initiatives. Delivering end-to-end
+      solutions for Telecom domain with focus on data governance, AI-driven
+      analytics, and security best practices.
   - role: Data Scientist
-    org: DataCorp Inc.
+    org: Ericsson
     start: "2016-07-01"
     end: "2019-12-31"
     summary: |
-      Applied Bayesian methods and statistical analysis to solve
-      business problems across multiple domains.
+      Implementing machine learning algorithms on large datasets.
+      Using data visualization and analytics to answer business use cases
+      across Financial and Telecom domains.
 
 skills:
+  - name: Core Skills
+    items:
+      - label: Data Management
+        level: 5
+      - label: Artificial Intelligence
+        level: 5
+      - label: Security
+        level: 5
   - name: Technical Skills
     items:
       - label: Python
         level: 5
-      - label: R
-        level: 4
-      - label: Statistics
-        level: 5
       - label: Machine Learning
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Technical Writing
-        level: 4
-      - label: Data Visualization
         level: 5
-      - label: Presentations
+      - label: Data Visualization
         level: 4
 
 languages:
@@ -87,10 +88,8 @@ languages:
   - name: Hindi
     level: 5
     label: Native
+  - name: Bengali
+    level: 5
+    label: Native
 
-awards:
-  - title: Best Data Science Project
-    awarder: DataCorp Inc.
-    date: "2019-06-01"
-    icon: hero/trophy
-    summary: Recognized for developing a novel anomaly detection system using Bayesian inference.
+awards: []
