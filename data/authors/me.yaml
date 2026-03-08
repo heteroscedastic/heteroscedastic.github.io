@@ -13,14 +13,12 @@ status:
   icon: ""
 role: Senior Specialist, Data Management & Security
 bio: |
-  Senior Specialist in Data Management & Security at Ericsson. Passionate about Data, AI,
+  Senior Specialist in Data Management & Security. Passionate about Data, AI,
   and Security. Implementing machine learning algorithms on large datasets using data
   visualization and analytics to answer business use cases. Cross-domain technical
   competence in Embedded and Web, with experience in Financial and Telecom domains.
 
-affiliations:
-  - name: Ericsson
-    url: https://www.ericsson.com/
+affiliations: []
 
 links:
   - icon: brands/github
@@ -47,21 +45,20 @@ education:
 
 experience:
   - role: Senior Specialist, Data Management & Security
-    org: Ericsson
+    org: ""
     start: "2020-01-01"
     end: ""
     summary: |
       Leading data management and security initiatives. Delivering end-to-end
-      solutions for Telecom domain with focus on data governance, AI-driven
-      analytics, and security best practices.
+      solutions with focus on data governance, AI-driven analytics, and
+      security best practices.
   - role: Data Scientist
-    org: Ericsson
+    org: ""
     start: "2016-07-01"
     end: "2019-12-31"
     summary: |
       Implementing machine learning algorithms on large datasets.
-      Using data visualization and analytics to answer business use cases
-      across Financial and Telecom domains.
+      Using data visualization and analytics to answer business use cases.
 
 skills:
   - name: Core Skills
