@@ -11,12 +11,12 @@ name:
 postnominals: []
 status:
   icon: ""
-role: Analytics System Architect
+role: Senior Specialist, Data Management & Security
 bio: |
-  Digital Transformation & Analytics Consultant | Data Scientist | Machine Learning Enthusiast.
-  Implementing machine learning algorithms on large datasets using data visualization
-  and analytics to answer business use cases. Cross-domain technical competence
-  in Embedded and Web, with experience in Financial and Telecom domains.
+  Senior Specialist in Data Management & Security at Ericsson. Passionate about Data, AI,
+  and Security. Implementing machine learning algorithms on large datasets using data
+  visualization and analytics to answer business use cases. Cross-domain technical
+  competence in Embedded and Web, with experience in Financial and Telecom domains.
 
 affiliations:
   - name: Ericsson
@@ -29,11 +29,11 @@ links:
     url: https://www.linkedin.com/in/soumyakantic/
 
 interests:
+  - Data Management
+  - Artificial Intelligence
+  - Security
   - Machine Learning
-  - Data Science & Analytics
-  - Digital Transformation
   - Data Visualization
-  - Statistics & Probability
 
 education:
   - degree: MS in Statistics
@@ -46,14 +46,14 @@ education:
     end: "2014-05-31"
 
 experience:
-  - role: Analytics System Architect
+  - role: Senior Specialist, Data Management & Security
     org: Ericsson
     start: "2020-01-01"
     end: ""
     summary: |
-      Strategy and Transformation Initiatives. Delivering end-to-end software
-      solutions for Telecom domain. Working with Operational Product Owners
-      for analytics-driven digital transformation.
+      Leading data management and security initiatives. Delivering end-to-end
+      solutions for Telecom domain with focus on data governance, AI-driven
+      analytics, and security best practices.
   - role: Data Scientist
     org: Ericsson
     start: "2016-07-01"
@@ -64,6 +64,14 @@ experience:
       across Financial and Telecom domains.
 
 skills:
+  - name: Core Skills
+    items:
+      - label: Data Management
+        level: 5
+      - label: Artificial Intelligence
+        level: 5
+      - label: Security
+        level: 5
   - name: Technical Skills
     items:
       - label: Python
@@ -71,16 +79,6 @@ skills:
       - label: Machine Learning
         level: 5
       - label: Data Visualization
-        level: 5
-      - label: Analytics
-        level: 5
-  - name: Domain & Communication
-    items:
-      - label: Telecom Domain
-        level: 4
-      - label: Digital Transformation
-        level: 4
-      - label: Technical Writing
         level: 4
 
 languages:
