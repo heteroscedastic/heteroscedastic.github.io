@@ -34,19 +34,17 @@ interests:
   - Data Visualization
 
 education:
-  - degree: MS in Statistics
-    institution: University of California, Berkeley
-    start: "2014-09-01"
-    end: "2016-06-30"
-  - degree: BS in Mathematics
-    institution: Indian Institute of Technology
-    start: "2010-08-01"
-    end: "2014-05-31"
+  - degree: Advanced Management Program in Business Analytics
+    institution: Indian School of Business
+  - degree: MSc in Industrial Software Engineering
+    institution: Mälardalen University, Sweden
+  - degree: B.Tech in Computer Science
+    institution: MAKAUT, India
 
 experience:
   - role: Senior Specialist, Data Management & Security
-    org: ""
-    start: "2020-01-01"
+    org: Ericsson
+    start: "2019-08-01"
     end: ""
     summary: |
       Leading data management and security initiatives. Delivering end-to-end
